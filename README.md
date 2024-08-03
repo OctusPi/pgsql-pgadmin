@@ -47,7 +47,7 @@ HOST_PORT_PGA=8082
 
 Execute o seguinte comando para iniciar os contêineres:
 ```sh
-docker-compose up
+docker-compose up -d
 ```
 
 #### Passo 5: Acessando o PG Admin
